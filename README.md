@@ -2,7 +2,7 @@
 
 ## About me
 I am from Parana, Entre Rios, Argentina.  
-I am student the 2th year in UTN (University Tecnology National). I am have knowledge in C#.Net Framework, .NetCore and .Net8.
+I am student the 2th year in UTN (University Tecnology National). I am have knowledge in C#.Net Framework, .NetCore, and .Net8.
 
 ## skills
 
