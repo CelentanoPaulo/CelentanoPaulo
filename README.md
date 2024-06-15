@@ -6,7 +6,7 @@ I am student the 2th year in UTN (University Tecnology National). I am have know
 
 ## skills
 
-**C#.**  
+**C#**  
 **.Net8**  
 **.NetCore**  
 **.NetFramework**  
