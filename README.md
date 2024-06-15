@@ -6,10 +6,10 @@ I am student the 2th year in UTN (University Tecnology National). I am have know
 
 ## skills
 
-**C#.**
-**.Net8**
-**.NetCore**
-**.NetFramework**
+**C#.**  
+**.Net8**  
+**.NetCore**  
+**.NetFramework**  
 <!--
 **CelentanoPaulo/CelentanoPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
