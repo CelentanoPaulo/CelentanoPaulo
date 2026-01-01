@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/170023574?v=4" width="150" style="border-radius: 50%;" alt="Paulo Celentano">
-  <h1>¡Hola, soy Paulo Celentano! 👋</h1>
-  <p>🚀 <b>Desarrollador Java Backend</b> en formación. De Paraná, Argentina.</p>
+  
+  <h1>¡Hola, soy Paulo Celentano! </h1>
+  <p> <b>Desarrollador Java Backend</b> en formación. De Paraná, Argentina.</p>
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí
+###  Sobre Mí
 
 Soy estudiante avanzado de la **Tecnicatura Universitaria en Programación en la UTN**.
 Cuento con **más de 9 años de experiencia laboral** en logística, donde desarrollé una fuerte ética de trabajo, responsabilidad y capacidad para trabajar en equipo. Hoy aplico toda esa experiencia profesional a mi pasión por el desarrollo de software.
@@ -15,7 +15,7 @@ Mi enfoque principal es la construcción de soluciones Backend escalables utiliz
 
 ---
 
-### 🛠️ Tecnologías y Habilidades
+###  Tecnologías y Habilidades
 
 | Categoría | Tecnologías |
 | --- | --- |
