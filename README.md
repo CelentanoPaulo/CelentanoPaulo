@@ -26,13 +26,6 @@ Mi enfoque principal es la construcción de soluciones Backend escalables utiliz
 
 ---
 
-###  Estadísticas de GitHub
-
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de Paulo](https://github-readme-stats.vercel.app/api?username=CelentanoPaulo&show_icons=true&theme=dark&hide_border=true&locale=es)
-![Racha de Paulo](https://github-readme-streak-stats.herokuapp.com/?user=CelentanoPaulo&theme=dark&hide_border=true&locale=es)
----
 
 <div align="center">
   Disponible para posiciones **Trainee / Junior**.<br>
