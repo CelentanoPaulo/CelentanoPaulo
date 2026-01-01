@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>¡Hola, soy Paulo Celentano! </h1>
+  <h1> Paulo Celentano </h1>
   <p> <b>Desarrollador Java Backend</b> en formación. De Paraná, Argentina.</p>
 </div>
 
@@ -26,13 +26,12 @@ Mi enfoque principal es la construcción de soluciones Backend escalables utiliz
 
 ---
 
+###  Estadísticas de GitHub
+
 ### 📈 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CelentanoPaulo&show_icons=true&theme=dark&hide_border=true&locale=es" alt="Estadísticas de Paulo" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelentanoPaulo&theme=dark&hide_border=true&locale=es" alt="Racha de Paulo" height="150"/>
-</div>
-
+![Estadísticas de Paulo](https://github-readme-stats.vercel.app/api?username=CelentanoPaulo&show_icons=true&theme=dark&hide_border=true&locale=es)
+![Racha de Paulo](https://github-readme-streak-stats.herokuapp.com/?user=CelentanoPaulo&theme=dark&hide_border=true&locale=es)
 ---
 
 <div align="center">
