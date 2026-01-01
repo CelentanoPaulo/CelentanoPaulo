@@ -28,8 +28,10 @@ Mi enfoque principal es la construcción de soluciones Backend escalables utiliz
 
 
 <div align="center">
-  Disponible para posiciones **Trainee / Junior**.<br>
-  <a href="https://www.linkedin.com/in/paulo-celentano/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <br>
+  <p> Disponible para posiciones <b>Trainee / Junior</b></p>
+  <a href="https://www.linkedin.com/in/paulo-celentano/" target="_blank">
+    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <br>
 </div>
